@@ -1,0 +1,4 @@
+Branch is a label points to a specific time
+-git checkout
+-git branch (make a new branch)
+-touch (creates a file/updates timestamp)
