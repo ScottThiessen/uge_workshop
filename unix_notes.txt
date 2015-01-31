@@ -1,3 +1,6 @@
+git status (staging area)
+git log (commit circle)
+
 clear
 pwd
 history | less
@@ -16,7 +19,7 @@ cd ..
 cd Downloads/
 cd Desktop/
 desktop
-desdp 
+desdp
 cd ~
 la
 ls -lS
@@ -38,8 +41,8 @@ git config --global user.name 'YOUR FULL NAME'
 curl -fsSL http://git.io/7UHtNA | sh
 brew install git
 echo $PATH
-ech $PATH 
-echo $EDITOR 
+ech $PATH
+echo $EDITOR
 subl ~/.config/fish/config.fish
 subl
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
